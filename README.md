@@ -22,6 +22,19 @@ A classic Tic Tac Toe game built with HTML, CSS, and JavaScript. Play against a 
 - **CSS3**: Styling and animations
 - **JavaScript**: Game logic and interactivity
 
+## 🏷️ Tags
+- HTML
+- CSS
+- JavaScript
+- Tic Tac Toe
+- Game Development
+- DOM Manipulation
+- Frontend Project
+- Browser Game
+- Two Player Game
+- Beginner-Friendly
+- Web Development
+
 ## How to Play
 
 1. The game is played on a 3x3 grid
@@ -62,7 +75,4 @@ tic-tac-toe/
 - [ ] Add single-player mode with AI opponent
 - [ ] Add score tracking
 - [ ] Include sound effects
-- [ ] Add animations for winning combinations
-- [ ] Create different themes/color schemes
 
-nsider giving it a star on GitHub!
